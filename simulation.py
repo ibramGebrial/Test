@@ -7,7 +7,6 @@ average_service_time = 15.0
 stdev_service_time = 3.5
 num_servers = 3
 
-
 waits = []
 arrival_time = 0.0
 servers = [0.0] * num_servers  # time when each server becomes available
